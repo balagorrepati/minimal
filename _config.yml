@@ -1,6 +1,6 @@
 title: Bala Gorrepati
 logo: /assets/img/logo.png
 description: Upgrad portfolio.
-show_downloads: true
+show_downloads: false
 google_analytics:
 theme: jekyll-theme-minimal
